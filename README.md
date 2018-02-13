@@ -17,7 +17,7 @@ In order to debug it you should know that a tab points the cursor to the next 8t
 
  123456789
 
- t___________t
+ t__________t
  
  here the space between two consecutive t's is known as tab space or tab stop.*
  
