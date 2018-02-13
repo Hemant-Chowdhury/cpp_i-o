@@ -23,4 +23,4 @@ t__________t
  
 So now if you have some strings smaller than tab size and some larger than tab size, you should concatenate smaller words with extra tab before storing while larger words can be stored simply.
 
-*Mistakes Are Opportunities For Discoveries*
+**Mistakes Are Opportunities For Discoveries**
