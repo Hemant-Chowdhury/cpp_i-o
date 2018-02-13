@@ -6,7 +6,7 @@ If you need to display integers, you may use to_string function. *CAUTION: Dont 
 If you ever get any distorted matrix, you need to check the space and tab size, also check if your string is over flowing the box size. 
 One of the bad problems which you may face is that there may be different sized strings and hence it may result in a distorted display.
 In order to debug it you should know that a tab points the cursor to the next 8th character. A tab character should advance to the next tab stop.
-* Example
+*Example
  123456789
  t       t
  here the space between two consecutive t's is known as tab space or tab stop.
